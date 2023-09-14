@@ -1,63 +1,63 @@
 [
     {
-      "id": 1,
+      "id": 11,
       "name": "Classic Quartz Watch",
       "brand": "TimeMaster",
-      "price": 99.99
+      "price": 99.99 $ 
     },
     {
-      "id": 2,
+      "id": 22,
       "name": "Sports Chronograph",
       "brand": "SpeedX",
-      "price": 149.95
+      "price": 149.95 $
     },
     {
       "id": 3,
       "name": "Elegant Gold Plated Watch",
       "brand": "LuxuryTime",
-      "price": 249.99
+      "price": 249.99 $
     },
     {
       "id": 4,
       "name": "Digital Smartwatch",
       "brand": "TechWear",
-      "price": 199.00
+      "price": 199.00 $
     },
     {
       "id": 5,
       "name": "Diver's Automatic Watch",
       "brand": "AquaMaster",
-      "price": 299.50
+      "price": 299.50 $
     },
     {
       "id": 6,
       "name": "Minimalist Leather Watch",
       "brand": "StyleHorizon",
-      "price": 79.95
+      "price": 79.95 $
     },
     {
       "id": 7,
       "name": "Aviator's Pilot Watch",
       "brand": "SkyMaster",
-      "price": 179.99
+      "price": 179.99 $
     },
     {
       "id": 8,
       "name": "Fashionable Rose Gold Watch",
       "brand": "ChicStyle",
-      "price": 129.99
+      "price": 129.99 $
     },
     {
       "id": 9,
       "name": "Rugged Outdoor Watch",
       "brand": "AdventurePro",
-      "price": 159.95
+      "price": 159.95 $
     },
     {
       "id": 10,
       "name": "Luxury Diamond-Encrusted Watch",
       "brand": "BlingMaster",
-      "price": 999.99
+      "price": 999.99 $
     }
   ]
   
